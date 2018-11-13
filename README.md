@@ -13,5 +13,4 @@
 <p>Support : f4u0k6@yeah.net</p>
     </div>
   </body>
-  ![image](https://github.com/panacena/mengqu/blob/master/readme/Screenshot_2016-07-10-22-17- 15_zkk.com.mengqu.png)
 </html>
