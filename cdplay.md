@@ -33,9 +33,6 @@
 <body>
   <div class="container">
       <h2>《Liên kết Elf》</h2>
-      
-      ![image](https://github.com/awm98k/possd/blob/master/Icon%402x.png)
-      
       <p class="introduce">
             《梦幻冒险物语》是一款Q萌版的放置类手机游戏，摒弃烦人枯燥的手动刷怪玩法，带广大玩家轻松挂机升级，在离线状态下也能获得所有收益，把你真正从繁琐的游戏操作中解放出来，在繁忙工作中也能轻松打怪刷装备！
       </p>
@@ -48,5 +45,5 @@
       </p>
   </div>
 
-</body></html>
-</html>
+</body>
+![image](https://github.com/awm98k/possd/blob/master/Icon%402x.png)</html>
