@@ -12,7 +12,8 @@
       <h1 id="find-the-true-way">Find the true way</h1>
 <p>Support : f4u0k6@yeah.net</p>
     </div>
+    ![image](https://github.com/awm98k/possd/blob/master/Icon%402x.png) 
   </body>
   
-![image](https://github.com/awm98k/possd/blob/master/Icon%402x.png) 
+
 </html>
